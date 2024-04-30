@@ -1,0 +1,5 @@
+insert into students(name, last_name, email, course_id) values ('Juan', 'Pérez', 'juan@gmail.com', 1)
+insert into students(name, last_name, email, course_id) values ('Carlos', 'Pérez', 'juan@gmail.com', 2)
+insert into students(name, last_name, email, course_id) values ('Santiago', 'Pérez', 'juan@gmail.com', 3)
+insert into students(name, last_name, email, course_id) values ('Raul', 'Pérez', 'juan@gmail.com', 4)
+insert into students(name, last_name, email, course_id) values ('Luis', 'Pérez', 'juan@gmail.com', 5)

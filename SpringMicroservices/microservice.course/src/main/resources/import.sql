@@ -1,0 +1,5 @@
+insert into courses(name, teacher) values ('Calculo', 'Raul Pérez')
+insert into courses(name, teacher) values ('Bases', 'Carlos Pérez')
+insert into courses(name, teacher) values ('Web', 'Samuel Pérez')
+insert into courses(name, teacher) values ('IA', 'Felipe Pérez')
+insert into courses(name, teacher) values ('Prog', 'Jaime Pérez')
