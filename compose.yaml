@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: 'postgres:12.18'
+    environment:
+      - 'POSTGRES_DB=db_cars'
+      - 'POSTGRES_PASSWORD=1011392080'
+      - 'POSTGRES_USER=postgres'
+    ports:
+      - '5433'
+    expose:
+      - '5433'
